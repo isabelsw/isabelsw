@@ -50,8 +50,6 @@ I started out as a fine artist and English teacher. In 2023, a friend in Fronten
 
 <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.gif" alt="🚧" width="32" height="32"></picture> I’m currently creating a pricing calculator with HTML, CSS and JS, plus a Star Wars Top Trumps game with Python.
 
-<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6b2/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6b2/512.gif" alt="🚲" width="32" height="32"></picture> Besides programming, my interests include physics, maths, gaming, art, creative writing, bikes, cars and motorsports.
-
 <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f42c/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f42c/512.gif" alt="🐬" width="32" height="32"></picture> I’m currently augmenting my skills in MySQL and JavaScript (with Node.js), as well as continuing to study web app security and DevOps. 
 
 <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f942/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f942/512.gif" alt="🥂" width="32" height="32"></picture> I'm available for collaboration on web dev projects. I can provide expertise on design and colour theory.
