@@ -48,7 +48,7 @@
 
 I started out as a fine artist and English teacher. In 2023, a friend in Frontend Development encouraged me to take on some UI projects; this introduced me to the world of web design. Learning web design felt like a natural progression from my other creative roles and a chance for me to branch out into programming. I now team up with fellow developers to create intuitive and unique websites, whilst applying UX principles and cybersecurity practices.
 
-<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.gif" alt="🚧" width="32" height="32"></picture> I’m currently creating a pricing calculator with HTML, CSS and JS, plus a Star Wars Top Trumps game with Python.
+<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.gif" alt="🚧" width="32" height="32"></picture> I’m currently creating a pricing calculator with HTML, CSS and JS, plus a Star Wars Top Trumps game with Python - both open-source.
 
 <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f42c/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f42c/512.gif" alt="🐬" width="32" height="32"></picture> I’m currently augmenting my skills in MySQL and JavaScript (with Node.js), as well as continuing to study web app security and DevOps. 
 
