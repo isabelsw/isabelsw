@@ -9,7 +9,7 @@
 </picture>
 <p>&nbsp;</p>
 
-<p>Reach new heights with my stellar design and web solutions. Whilst following a programme that mixes project-based learning with theory, I have gone from Full Stack Design to Full Stack Development. I create stunning branding, graphics, data visualisation and websites with successful strategy at their core.</p>
+<p>Reach new heights with my stellar design and web solutions. Whilst following a programme that mixes project-based learning with theory, I have gone from Design to Development. I create stunning branding, graphics, data visualisation and websites with successful strategy at their core.</p>
 <p>&nbsp;</p>
 
 > [!IMPORTANT]
