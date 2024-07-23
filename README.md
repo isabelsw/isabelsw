@@ -9,7 +9,7 @@
 </picture>
 <p>&nbsp;</p>
 
-<p>Reach new heights with my stellar design and web solutions. Whilst following a programme that mixes project-based learning with theory, I have gone from Design to Development. I create stunning branding, graphics, data visualisation and websites with successful strategy at their core.</p>
+<p>Reach new heights with my stellar design and web solutions. I create stunning branding, graphics, data visualisation and websites with successful strategy at their core.</p>
 <p>&nbsp;</p>
 
 > [!IMPORTANT]
@@ -46,13 +46,13 @@
 
 ## <a name="about-me"></a>About Me
 
-I started out as a fine artist and English teacher. In 2023, a friend in Frontend Development encouraged me to take on some UI projects; this introduced me to the world of web design. Learning web design felt like a natural progression from my other creative roles and a chance for me to branch out into programming. I now team up with fellow developers to create intuitive and unique websites, whilst applying UX principles and cybersecurity practices.
+I started out as a fine artist and English teacher. In 2023, a friend in Frontend Development encouraged me to take on some UI projects; this introduced me to the world of web design. Learning web design felt like a natural progression from my other creative roles and a chance for me to branch out into programming. Whilst following a programme that mixes project-based learning with theory, I have gone from Design to Development. I now team up with fellow developers to create intuitive and unique websites, whilst applying UX principles and cybersecurity practices. I'm seeking to transition to Data Science or Engineering, with the opportunity to do ML projects.
 
 <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.gif" alt="🚧" width="32" height="32"></picture> I’m currently creating a pricing calculator with HTML, CSS and JS, plus a Star Wars Top Trumps game with Python - both open-source.
 
 <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f433/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f433/512.gif" alt="🐳" width="32" height="32"></picture> I’m currently augmenting my skills in Docker and JavaScript (with Node.js), as well as continuing to study web app security and DevOps. 
 
-<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f942/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f942/512.gif" alt="🥂" width="32" height="32"></picture> I'm available for collaboration on web dev projects. I can provide expertise on design and colour theory.
+<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f942/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f942/512.gif" alt="🥂" width="32" height="32"></picture> I'm available for collaboration on web dev and data projects. I can provide expertise on design and colour theory.
 <p>&nbsp;</p>
 
 | Projects & Study |
