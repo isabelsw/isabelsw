@@ -9,7 +9,7 @@
 </picture>
 <p>&nbsp;</p>
 
-<p>Reach new heights with my stellar design and web solutions. I create stunning branding, graphics, data visualisation and websites with successful strategy at their core.</p>
+<p>Reach new heights with my stellar design and web solutions. I create stunning graphics and websites with successful strategy at their core.</p>
 <p>&nbsp;</p>
 
 > [!IMPORTANT]
