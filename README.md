@@ -23,7 +23,7 @@
 </picture>
 <p>&nbsp;</p>
 
-“We’re one to two years away from a machine that can debate with you on your investment hypothesis.” – Pavel Abdur-Rahman, IBM.
+> "We’re one to two years away from a machine that can debate with you on your investment hypothesis.” – Pavel Abdur-Rahman, IBM.
 <p>&nbsp;</p>
 
 <!-- TABLE OF CONTENTS -->
