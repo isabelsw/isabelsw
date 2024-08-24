@@ -9,9 +9,6 @@
 </picture>
 <p>&nbsp;</p>
 
-<p>Reach new heights. Stellar design and web solutions with successful strategy at their core.</p>
-<p>&nbsp;</p>
-
 > [!IMPORTANT]
 > For collaboration or a free consultation, reach me via isabelsw@proton.me 📨 or <a href="https://t.me/artem_and_Isa">Telegram</a> 💬.
 
@@ -46,13 +43,7 @@
 
 ## <a name="about-me"></a>About Me
 
-I started out as a fine artist and English teacher. In 2023, a friend in Front End Development encouraged me to take on some UI projects; this introduced me to the world of web design. Learning web design felt like a natural progression from my other creative roles and a chance for me to branch out into programming. Whilst following a programme that mixes project-based learning with theory, I have gone from design to development. I now team up with fellow developers to create intuitive and unique websites, whilst applying UX principles and cybersecurity practices.
-
-<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.gif" alt="🚧" width="32" height="32"></picture> I’m currently creating a pricing calculator with HTML, CSS and JavaScript – open-source.
-
-<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f433/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f433/512.gif" alt="🐳" width="32" height="32"></picture> I’m currently augmenting my skills in Docker and JavaScript (with Node.js), as well as continuing to implement web app security. 
-
-<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f942/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f942/512.gif" alt="🥂" width="32" height="32"></picture> I'm available for collaboration on web dev projects. I can provide expertise on design and colour theory.
+I started out as a graphic designer and English teacher. In 2023, a friend in front end development encouraged me to take on some UI projects; this introduced me to the world of web design. Learning web design felt like a natural progression from my other creative roles and a chance for me to branch out into programming. Whilst following a programme that mixes project-based learning with theory, I have gone from design to development. I've teamed up with fellow developers to create intuitive and unique websites, whilst applying UX principles and cybersecurity practices. I’m now transitioning to 𝗾𝘂𝗮𝗻𝘁𝗶𝘁𝗮𝘁𝗶𝘃𝗲 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁.
 <p>&nbsp;</p>
 
 | Projects & Study |
