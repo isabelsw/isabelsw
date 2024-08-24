@@ -57,7 +57,7 @@ I started out as a graphic designer and English teacher. In 2023, a friend in fr
 
 | Projects & Study |
 |----------|
-| <ul><li>Branding</li><li>UI Design</li><li>Maths</li><li>Stats</li><li>Physics</li><li>Full Stack Dev</li><li>Data Science</li><li>AI and ML</li></ul> | 
+| <ul><li>3D Illustration</li><li>UI Design</li><li>Maths & Stats</li><li>Physics</li><li>Quant Development</li><li>Data Science</li><li>AI & ML</li></ul> | 
 
 <p>&nbsp;</p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
