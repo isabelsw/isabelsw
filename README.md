@@ -17,14 +17,15 @@
 </a>
 <p>&nbsp;</p>
 
+> "We’re one to two years away from a machine that can debate with you on your investment hypothesis” – Pavel Abdur-Rahman, IBM.
+<p>&nbsp;</p>
+
 <picture>
   <source srcset="https://media4.giphy.com/media/3oz8xESfXnc1gFAg4o/giphy.gif?cid=6c09b9527sfjdxiw7de0hly1k4fny7ofsxi1xobab5mdoyue&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
   <img src="https://media4.giphy.com/media/3oz8xESfXnc1gFAg4o/giphy.gif?cid=6c09b9527sfjdxiw7de0hly1k4fny7ofsxi1xobab5mdoyue&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 </picture>
 <p>&nbsp;</p>
 
-> "We’re one to two years away from a machine that can debate with you on your investment hypothesis.” – Pavel Abdur-Rahman, IBM.
-<p>&nbsp;</p>
 
 <!-- TABLE OF CONTENTS -->
 <details>
