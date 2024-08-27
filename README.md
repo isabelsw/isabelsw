@@ -58,7 +58,7 @@ I started out as an illustrator and English teacher. In 2023, a friend in front 
 
 | Projects & Study |
 |----------|
-| <ul><li>3D Illustration</li><li>UI Design</li><li>Maths & Stats</li><li>Physics</li><li>Quant Development</li><li>Data Science</li><li>AI & ML</li></ul> | 
+| <ul><li>3D Illustration</li><li>UI Design</li><li>Maths & Stats</li><li>Physics</li><li>Web Development</li><li>Quant Development</li><li>Data Science</li><li>AI & ML</li></ul> | 
 
 <p>&nbsp;</p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
