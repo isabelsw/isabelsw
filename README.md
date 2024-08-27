@@ -17,16 +17,6 @@
 </a>
 <p>&nbsp;</p>
 
-> "We’re one to two years away from a machine that can debate with you on your investment hypothesis” – Pavel Abdur-Rahman, IBM.
-<p>&nbsp;</p>
-
-<picture>
-  <source srcset="https://media4.giphy.com/media/3oz8xESfXnc1gFAg4o/giphy.gif?cid=6c09b9527sfjdxiw7de0hly1k4fny7ofsxi1xobab5mdoyue&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
-  <img src="https://media4.giphy.com/media/3oz8xESfXnc1gFAg4o/giphy.gif?cid=6c09b9527sfjdxiw7de0hly1k4fny7ofsxi1xobab5mdoyue&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
-</picture>
-<p>&nbsp;</p>
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Contents</summary>
@@ -61,6 +51,16 @@ I started out as an illustrator and English teacher. In 2023, a friend in front 
 | <ul><li>3D Illustration</li><li>UI Design</li><li>Maths & Stats</li><li>Physics</li><li>Web Development</li><li>Quant Development</li><li>Data Science</li><li>AI & ML</li></ul> | 
 
 <p>&nbsp;</p>
+
+> "We’re one to two years away from a machine that can debate with you on your investment hypothesis” – Pavel Abdur-Rahman, IBM.
+<p>&nbsp;</p>
+
+<picture>
+  <source srcset="https://media4.giphy.com/media/3oz8xESfXnc1gFAg4o/giphy.gif?cid=6c09b9527sfjdxiw7de0hly1k4fny7ofsxi1xobab5mdoyue&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+  <img src="https://media4.giphy.com/media/3oz8xESfXnc1gFAg4o/giphy.gif?cid=6c09b9527sfjdxiw7de0hly1k4fny7ofsxi1xobab5mdoyue&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+</picture>
+<p>&nbsp;</p>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## <a id=“my-portfolio”></a>My Portfolio 
