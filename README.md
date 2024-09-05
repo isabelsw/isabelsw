@@ -43,7 +43,7 @@
 
 ## <a name="about-me"></a>About Me
 
-I started out as an illustrator and English teacher. In 2023, a friend in front end development encouraged me to take on some UI projects; this introduced me to the world of web design. Learning web design felt like a natural progression from my other creative roles and a chance for me to branch out into programming. Whilst following a programme that mixes project-based learning with theory, I have gone from design to development. I've teamed up with fellow developers to create intuitive and unique websites, whilst applying UX principles and cybersecurity practices. I’m now learning 𝗾𝘂𝗮𝗻𝘁𝗶𝘁𝗮𝘁𝗶𝘃𝗲 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁.
+I started out as an artist with graphic design skills and teaching experience. In 2023, a friend in front end development encouraged me to take on some UI projects; this introduced me to the world of web design. Learning web design felt like a natural progression from my other creative roles and a chance for me to branch out into programming. Whilst following a programme that mixes project-based learning with theory, I have gone from design to development. I've teamed up with fellow developers to create intuitive and unique websites, whilst applying UX principles and cybersecurity practices. 
 <p>&nbsp;</p>
 
 | Projects & Study |
