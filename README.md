@@ -48,7 +48,7 @@ I started out as an artist with graphic design skills and teaching experience. I
 
 | Projects & Study |
 |----------|
-| <ul><li>3D Illustration</li><li>UI Design</li><li>Maths & Stats</li><li>Physics</li><li>Web Development</li><li>Quant Development</li><li>Data Science</li><li>AI & ML</li></ul> | 
+| <ul><li>Graphic/UI Design</li><li>Maths & Stats</li><li>Physics</li><li>Web Development</li><li>Quant Development</li><li>Data Analysis</li><li>AI & ML</li></ul> | 
 
 <p>&nbsp;</p>
 
