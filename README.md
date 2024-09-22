@@ -50,6 +50,9 @@ I started out as a book designer with teaching experience. In 2023, a friend in 
 |----------|
 | <ul><li>UI Design</li><li>Maths & Stats</li><li>Physics</li><li>Web Development</li><li>Data Analysis/Science</li><li>Machine Learning</li></ul> | 
 
+| Other Interests |
+|----------|
+| <ul><li>Motors & F1</li><li>Finance</li><li>Tennis & MA</li><li>Art & Poetry</li></ul> |
 <p>&nbsp;</p>
 
 > "We’re one to two years away from a machine that can debate with you on your investment hypothesis” – Pavel Abdur-Rahman, IBM.
