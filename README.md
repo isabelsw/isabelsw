@@ -52,7 +52,7 @@ I started out as a book designer with teaching experience. In 2023, a friend in 
 
 | Other Interests |
 |----------|
-| <ul><li>Motors & F1</li><li>Finance</li><li>Tennis</li><li>Nature Photography</li><li>Creative Writing</li><li>Lemurs</li><li>Art</></ul> |
+| <ul><li>Motors & F1</li><li>Finance</li><li>Tennis</li><li>Nature Photography</li><li>Creative Writing</li><li>Lemurs</li><li>Art</li></ul> |
 <p>&nbsp;</p>
 
 > "We’re one to two years away from a machine that can debate with you on your investment hypothesis” – Pavel Abdur-Rahman, IBM.
