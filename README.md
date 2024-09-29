@@ -52,7 +52,7 @@ I started out as an artist and English teacher. In 2023, a friend in front end d
 
 | Other Interests |
 |----------|
-| <ul><li>Motors & F1</li><li>Finance</li><li>Sports Art</li><li>Photography</li><li>Sci-Fi & Mysteries</li></ul> |
+| <ul><li>Motors & F1</li><li>Health</li><li>Sport & Sports Art</li><li>Photography</li><li>Robotics</li><li>Sci-Fi & Mysteries</li></ul> |
 <p>&nbsp;</p>
 
 > "We’re one to two years away from a machine that can debate with you on your investment hypothesis” – Pavel Abdur-Rahman, IBM.
