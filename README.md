@@ -48,11 +48,11 @@ I started out as an artist and English teacher. In 2023, a friend in front end d
 
 | Projects & Study |
 |----------|
-| <ul><li>UI Design</li><li>Maths & Stats</li><li>Physics</li><li>Web Development</li><li>Data Analysis/Science</li><li>Machine Learning</li></ul> | 
+| <ul><li>UI Design</li><li>Maths & Stats</li><li>Physics</li><li>Web Development</li><li>Data Science</li><li>Machine Learning</li></ul> | 
 
 | Other Interests |
 |----------|
-| <ul><li>Motors & F1</li><li>Sport & Sports Art</li><li>Finance & Quant</li><li>Photography</li><li>Creative Writing</li></ul> |
+| <ul><li>Motors & F1</li><li>Scientific Communication</li><li>Illustration</li><li>Finance</li><li>Photography</li><li>Creative Writing</li></ul> |
 <p>&nbsp;</p>
 
 > "We’re one to two years away from a machine that can debate with you on your investment hypothesis” – Pavel Abdur-Rahman, IBM.
