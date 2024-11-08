@@ -48,7 +48,7 @@ I started out as an artist and English teacher. In 2023, a friend in front end d
 
 | Projects & Study |
 |----------|
-| <ul><li>UI Design</li><li>Maths & Stats</li><li>Physics and Cosmology</li><li>Web Development</li><li>Data Science</li><li>Machine Learning</li></ul> | 
+| <ul><li>UI Design</li><li>Maths & Stats</li><li>Physics and Astronomy</li><li>Web Development</li><li>Data Science</li><li>Machine Learning</li></ul> | 
 
 | Other Interests |
 |----------|
