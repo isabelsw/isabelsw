@@ -42,14 +42,14 @@
 <p>&nbsp;</p>
 
 ## <a name="about-me"></a>About Me
-
+<p>&nbsp;</p>
 | Projects & Study |
 |----------|
-| <ul><li>Maths & Stats</li><li>Physics and Astronomy</li><li>Data Science</li><li>Machine Learning</li></ul> | 
+| <ul><li>Maths & Stats</li><li>Physics & Astronomy</li><li>Data Science/Engineering</li><li>Front-End Development</li></ul> | 
 
 | Other Interests |
 |----------|
-| <li>Science Communication</li><li>Illustration</li><li>Health</li><li>Photography</li><li>Environment</li></ul> |
+| <li>Science Communication</li><li>Illustration</li><li>Health</li><li>Photography</li><li>Energy & Environment</li></ul> |
 <p>&nbsp;</p>
 
 > "We’re one to two years away from a machine that can debate with you on your investment hypothesis” – Pavel Abdur-Rahman, IBM.
