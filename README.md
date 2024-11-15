@@ -43,6 +43,7 @@
 
 ## <a name="about-me"></a>About Me
 <p>&nbsp;</p>
+
 | Projects & Study |
 |----------|
 | <ul><li>Maths & Stats</li><li>Physics & Astronomy</li><li>Data Science/Engineering</li><li>Front-End Development</li></ul> | 
