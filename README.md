@@ -43,16 +43,13 @@
 
 ## <a name="about-me"></a>About Me
 
-I started out as an artist and English teacher. In 2023, a friend in front end development encouraged me to take on some UI projects; this introduced me to the world of web design. Learning web design felt like a natural progression from my other creative roles and a chance for me to branch out into coding. Whilst following a programme that mixes project-based learning with theory, I have gone from design to development. I've teamed up with fellow developers to create intuitive and unique websites, whilst applying UX principles and cybersecurity practices. 
-<p>&nbsp;</p>
-
 | Projects & Study |
 |----------|
-| <ul><li>UI Design</li><li>Maths & Stats</li><li>Physics and Astronomy</li><li>Web Development</li><li>Data Science</li><li>Machine Learning</li></ul> | 
+| <ul><li>Maths & Stats</li><li>Physics and Astronomy</li><li>Data Science</li><li>Machine Learning</li></ul> | 
 
 | Other Interests |
 |----------|
-| <li>Science Communication</li><li>Illustration</li><li>Health</li><li>Photography</li><li>Natural history</li></ul> |
+| <li>Science Communication</li><li>Illustration</li><li>Health</li><li>Photography</li><li>Environment</li></ul> |
 <p>&nbsp;</p>
 
 > "We’re one to two years away from a machine that can debate with you on your investment hypothesis” – Pavel Abdur-Rahman, IBM.
