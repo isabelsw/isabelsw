@@ -46,11 +46,11 @@
 
 | Projects & Study |
 |----------|
-| <ul><li>Maths & Stats</li><li>Physics & Astronomy</li><li>Data Science/Engineering</li><li>Front-End Development</li></ul> | 
+| <ul><li>Maths & Stats</li><li>Physics</li><li>Data Science</li><li>Front-End Development</li></ul> | 
 
 | Other Interests |
 |----------|
-| <ul><li>Science Communication</li><li>Illustration</li><li>Health</li><li>Photography</li><li>Energy & Environment</li></ul> |
+| <ul><li>Science Communication</li><li>Art & Photography</li><li>Motorsport</li><li>Mechanical Engineering</li><li>Motorvehicles</li></ul> |
 <p>&nbsp;</p>
 
 > "We’re one to two years away from a machine that can debate with you on your investment hypothesis” – Pavel Abdur-Rahman, IBM.
